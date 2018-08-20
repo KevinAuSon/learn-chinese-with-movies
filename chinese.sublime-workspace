@@ -1,0 +1,1186 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"subt",
+				"subtitles"
+			],
+			[
+				"sub",
+				"subtitles"
+			],
+			[
+				"path",
+				"path_re"
+			],
+			[
+				"cru",
+				"crushed_file_name"
+			],
+			[
+				"segm",
+				"segmented_file_name"
+			],
+			[
+				"segmen",
+				"segmented_file"
+			],
+			[
+				"word",
+				"word_list"
+			],
+			[
+				"fil",
+				"filtered_sub"
+			],
+			[
+				"su",
+				"subtitle_name"
+			],
+			[
+				"len",
+				"len_file"
+			],
+			[
+				"segme",
+				"segmented_text"
+			],
+			[
+				"s",
+				"subtitles"
+			],
+			[
+				"subs",
+				"subtitles"
+			],
+			[
+				"in",
+				"in_f"
+			],
+			[
+				"mov",
+				"movie"
+			],
+			[
+				"file",
+				"filename"
+			],
+			[
+				"movie",
+				"movie_name"
+			],
+			[
+				"ac",
+				"archive_name"
+			],
+			[
+				"a",
+				"archive_name"
+			],
+			[
+				"acr",
+				"archive_type"
+			],
+			[
+				"archi",
+				"archive_name"
+			],
+			[
+				"movi",
+				"movies_index"
+			],
+			[
+				"get",
+				"get_movies"
+			],
+			[
+				"li",
+				"list_index"
+			],
+			[
+				"simi",
+				"similar_count"
+			],
+			[
+				"all_",
+				"all_count"
+			],
+			[
+				"user",
+				"user_words"
+			],
+			[
+				"files",
+				"files_re"
+			],
+			[
+				"re",
+				"regex"
+			],
+			[
+				"seg",
+				"segment_subtitles"
+			],
+			[
+				"ke",
+				"keys"
+			],
+			[
+				"au",
+				"audioi1"
+			],
+			[
+				"filne",
+				"filename2"
+			],
+			[
+				"max",
+				"max_length"
+			],
+			[
+				"wave",
+				"waves"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"compa",
+				"compare_two_subtitles"
+			],
+			[
+				"wo",
+				"word_list"
+			],
+			[
+				"key",
+				"key1"
+			],
+			[
+				"wor",
+				"word_count"
+			],
+			[
+				"st",
+				"stdout"
+			],
+			[
+				"is",
+				"is_changing_parameters"
+			],
+			[
+				"x_",
+				"x_labels"
+			],
+			[
+				"heat",
+				"heatmap_row"
+			],
+			[
+				"x",
+				"x_labels"
+			],
+			[
+				"y_la",
+				"y_labels_id"
+			],
+			[
+				"plot",
+				"plots_dir"
+			],
+			[
+				"x_labe",
+				"x_labels"
+			],
+			[
+				"output",
+				"output1"
+			],
+			[
+				"x_lab",
+				"x_labels"
+			],
+			[
+				"y_lab",
+				"y_labels"
+			],
+			[
+				"vals",
+				"vals_in"
+			],
+			[
+				"val",
+				"vals_in"
+			],
+			[
+				"y_labe",
+				"y_labels_id"
+			],
+			[
+				"heatmap",
+				"heatmap_case"
+			],
+			[
+				"input",
+				"input1"
+			],
+			[
+				"parse",
+				"parsed_results"
+			],
+			[
+				"sorte",
+				"sorted_keys"
+			],
+			[
+				"vas",
+				"vals_out"
+			],
+			[
+				"vals_",
+				"vals_in"
+			],
+			[
+				"va",
+				"vals_in"
+			],
+			[
+				"sort",
+				"sorted_xs"
+			],
+			[
+				"cbar",
+				"cbar_orientation"
+			],
+			[
+				"hori",
+				"horizontal"
+			],
+			[
+				"inde",
+				"independent_variables"
+			],
+			[
+				"len_",
+				"len_ivs"
+			],
+			[
+				"depe",
+				"dependent_variables"
+			],
+			[
+				"IN",
+				"independent_variables"
+			],
+			[
+				"iv",
+				"iv_names"
+			],
+			[
+				"node",
+				"node_infos"
+			],
+			[
+				"stre",
+				"strengths"
+			],
+			[
+				"dist",
+				"distances"
+			],
+			[
+				"streng",
+				"strengths"
+			],
+			[
+				"for",
+				"forces"
+			],
+			[
+				"dista",
+				"distanceMax"
+			],
+			[
+				"ce",
+				"cells"
+			],
+			[
+				"le",
+				"less"
+			],
+			[
+				"visit",
+				"visit_pre"
+			],
+			[
+				"cell_",
+				"cell_i"
+			],
+			[
+				"the",
+				"theta"
+			],
+			[
+				"distance",
+				"distanceMin"
+			],
+			[
+				"str",
+				"strengths"
+			],
+			[
+				"print",
+				"print_leaf"
+			],
+			[
+				"defa",
+				"default_app_index"
+			],
+			[
+				"add_",
+				"add_cell"
+			],
+			[
+				"te",
+				"temperature_min"
+			],
+			[
+				"age",
+				"agents"
+			],
+			[
+				"appl",
+				"apply_velocity"
+			],
+			[
+				"new",
+				"new_pos"
+			],
+			[
+				"nom",
+				"normed_factor"
+			],
+			[
+				"nor",
+				"normed_factor"
+			],
+			[
+				"sepa",
+				"separate_v"
+			],
+			[
+				"se",
+				"separate_v"
+			],
+			[
+				"forc",
+				"force_decay"
+			],
+			[
+				"fun",
+				"f_func"
+			],
+			[
+				"fore",
+				"force_func"
+			],
+			[
+				"spac",
+				"space_forces"
+			],
+			[
+				"link",
+				"link_forces"
+			],
+			[
+				"x_v",
+				"x_velo"
+			],
+			[
+				"sink",
+				"sink_pos"
+			],
+			[
+				"wi",
+				"width_center"
+			],
+			[
+				"hei",
+				"height_coed"
+			],
+			[
+				"nod",
+				"nodes"
+			],
+			[
+				"cell",
+				"cell_pos"
+			],
+			[
+				"Coni",
+				"ContinuousSpace"
+			],
+			[
+				"conti",
+				"continuous_element"
+			],
+			[
+				"grid",
+				"grid_element"
+			],
+			[
+				"mo",
+				"modules"
+			],
+			[
+				"ad",
+				"add_node_aux_aux"
+			],
+			[
+				"glo",
+				"global_stats"
+			],
+			[
+				"__pro",
+				"__propagate_aux_source"
+			],
+			[
+				"po",
+				"port"
+			],
+			[
+				"func",
+				"func_name"
+			],
+			[
+				"__globa",
+				"__global_comparatif"
+			],
+			[
+				"displ",
+				"display_global"
+			],
+			[
+				"min",
+				"min_hists"
+			],
+			[
+				"sum",
+				"sum_hists"
+			],
+			[
+				"func_",
+				"func_times"
+			],
+			[
+				"corr",
+				"corr_coef"
+			],
+			[
+				"sorted",
+				"sorted_key"
+			],
+			[
+				"timelap",
+				"timelapses"
+			],
+			[
+				"dis",
+				"display_times"
+			],
+			[
+				"time",
+				"timeit_func_wrapper"
+			],
+			[
+				"hist",
+				"hist_individual"
+			],
+			[
+				"sor",
+				"sorted_logs"
+			],
+			[
+				"me",
+				"means"
+			],
+			[
+				"co",
+				"correlations"
+			],
+			[
+				"coo",
+				"coorelations_text"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "init_db.py",
+			"settings":
+			{
+				"buffer_size": 5047,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "compare.py",
+			"settings":
+			{
+				"buffer_size": 6942,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rinku/UMHC_stuff.txt",
+			"settings":
+			{
+				"buffer_size": 1611,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "users/rinku.txt",
+			"settings":
+			{
+				"buffer_size": 495,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rinku/fiction_trial.txt",
+			"settings":
+			{
+				"buffer_size": 5745,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/rinku/to_add_rinku.txt",
+			"settings":
+			{
+				"buffer_size": 529,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "名字 name"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 184.0,
+		"last_filter": "syntax: js",
+		"selected_items":
+		[
+			[
+				"syntax: js",
+				"Set Syntax: JavaScript"
+			]
+		],
+		"width": 497.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/rinku/Workspace/useful_chinese/known_car.py",
+		"/home/rinku/Workspace/useful_chinese/data/segmented-subtitles/77_Heartbreaks.srt",
+		"/home/rinku/Workspace/useful_chinese/memrise.stuff",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/ch_example.py",
+		"/home/rinku/Downloads/Finding.Mr.Right.2013.BluRay.sub",
+		"/home/rinku/Downloads/Finding.Mr.Right.2013.BluRay.idx",
+		"/home/rinku/Workspace/useful_chinese/data/segmented-subtitles/12_Zodiac.srt",
+		"/home/rinku/Workspace/useful_chinese/data/segmented-subtitles/3_Brothers.srt",
+		"/home/rinku/Downloads/umhc.sql",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/scrapper.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/test.txt",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/translate.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/wr_scrapper.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/random_word.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/Pipfile",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/list.json",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/exercise.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/english_word_day.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/chinese_word_day.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/chinese-char.py",
+		"/home/rinku/Workspace/bin/english_word_day.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/yoyo_scrapper.py",
+		"/home/rinku/Dropbox/Workspace/chineseStuff/caracters.tex",
+		"/home/rinku/Dropbox/Workspace/bin/feed.py",
+		"/home/rinku/Workspace/useful_chinese/tmp/2 Become 1.srt",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/2 Become 1.srt",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/77_Heartbreaks.srt",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/Accident.srt",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/02:00 A.M..srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Switch.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Soul Blade.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Secret Agent.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Baober in Love.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Love Is Love.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/A Big Deal.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/A Good Rain Knows.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/A Moment of Romance.srt",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/About Love.srt",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/Ab-normal Beauty.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/The White Storm.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/Ip Man.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/Air Diary.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/Ab-normal Beauty.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/A-1 Headline.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/Aberdeen.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/A Lan.srt",
+		"/home/rinku/Workspace/useful_chinese/test/Brotherhood.of.Blades.I.srt",
+		"/home/rinku/Workspace/useful_chinese/scrapper.py",
+		"/home/rinku/Workspace/useful_chinese/compare.py",
+		"/home/rinku/Workspace/samples/app.py",
+		"/home/rinku/Workspace/music/app.py",
+		"/home/rinku/Workspace/useful_chinese/tmp/The.Walking.Dead.S07E10.1080p.BluRay.x264-ROVERS.zh.ass",
+		"/home/rinku/Dropbox/Workspace/Doing/models/run_experiments.py",
+		"/home/rinku/Workspace/umhc-core/db_init.py",
+		"/home/rinku/Workspace/ancient-sierra/prod_db_create.sh",
+		"/home/rinku/Workspace/ancient-sierra/init.py",
+		"/home/rinku/Workspace/ancient-sierra/server.py",
+		"/home/rinku/Dropbox/Workspace/youtube2deezer/convert.py",
+		"/home/rinku/Dropbox/Workspace/youtube2deezer/deezer_api.py",
+		"/home/rinku/Dropbox/Workspace/youtube2deezer/parse_youtube.py",
+		"/home/rinku/Dropbox/Workspace/youtube2deezer/postprocessor.py",
+		"/home/rinku/Workspace/useful_chinese/tmp/cht.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/Abba.srt",
+		"/home/rinku/Workspace/useful_chinese/data/subtitles/Ab-normal Beauty",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.简体.ass",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.简体.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.简体&英文.ass",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.简体&英文.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.繁体.ass",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.繁体.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.繁体&英文.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.英文.ass",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.英文.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.英文&简体.ass",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.英文&简体.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Prometheus.2012.BluRay.720p.x264.AC3-CMCT/Prometheus.2012.BluRay.720p.x264.AC3-CMCT.英文&繁体.srt",
+		"/home/rinku/Workspace/music/ins.py",
+		"/home/rinku/Workspace/useful_chinese/init_db.py",
+		"/home/rinku/Workspace/useful_chinese/data/crushed-subtitles/Brotherhood.of.Blades.I.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/Brotherhood.of.Blades.I.srt",
+		"/home/rinku/Workspace/useful_chinese/chinese1.tsv",
+		"/home/rinku/Workspace/useful_chinese/users/rinku",
+		"/home/rinku/t.text",
+		"/home/rinku/Workspace/music/test.py",
+		"/home/rinku/stuff.txt",
+		"/home/rinku/umhc.txt",
+		"/home/rinku/UMHC_stuff.txt",
+		"/home/rinku/Workspace/music/wavebender/examples/violin.py",
+		"/home/rinku/Workspace/music/wavebender/setup.py",
+		"/home/rinku/Workspace/music/wavebender/wavebender/__main__.py",
+		"/home/rinku/Workspace/music/wavebender/examples/binaural.py",
+		"/home/rinku/Workspace/useful_chinese/tmp/33b042b438c246efa0c64ba7a4add8eb.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/729f86a771f84aee904bbcafaa338f92.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/3ed455d5be014503870f462f13a49600.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/f4b53fc3722f41499bc08575e478def4.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/93a17f3051a141ba8a0a39f280ae27f8.txt",
+		"/home/rinku/Workspace/music/wavebender/test.py",
+		"/home/rinku/Workspace/music/wavebender/wavebender/wave.py",
+		"/home/rinku/Dropbox/Workspace/Doing/theoric_model/morpho/population_model.py",
+		"/home/rinku/Dropbox/Workspace/Doing/theoric_model/morpho/gp_compiler.py",
+		"/home/rinku/Dropbox/Workspace/Doing/theoric_model/morpho/gp.py",
+		"/home/rinku/Workspace/music/aux.py",
+		"/home/rinku/fiction_trial.txt",
+		"/home/rinku/Downloads/Brotherhood of Blades eng.srt",
+		"/home/rinku/Workspace/useful_chinese/test/Jurassic.World.srt",
+		"/home/rinku/Downloads/Jurassic.World.Fallen.Kingdom.2018.720p.KORSUB.HDRip.x264.AAC2.0-STUTTERSHIT.cht.srt",
+		"/home/rinku/Workspace/useful_chinese/tmp/a43abb3ba82145a8aa3204e61eab0f5b.txt",
+		"/home/rinku/Workspace/useful_chinese/stanford-segmenter/segment.sh",
+		"/home/rinku/Workspace/useful_chinese/stanford-segmenter/README-Chinese.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/004c5c0b235c44219ffc604cc601ed05.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/1f1aca856c5c4335bb708cd4e3dd7b70.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/7e9ae96b89a64be08e5b58a8eaae3808.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/0bd9fed5a0104e9c995bb6f03052ca5c.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/24fe7131dfa44e2885d45e7b541be19a.txt",
+		"/home/rinku/Workspace/useful_chinese/tmp/cd83572ef5354d648f4834fcd6e38bec.txt",
+		"/home/rinku/Workspace/useful_chinese/test/Brotherhood.of.Blades.II.srt",
+		"/home/rinku/Downloads/Brotherhood.of.Blades.2014.BluRay.720p.x264.AC3-CMCT.简体 [SubtitleTools.com].srt",
+		"/home/rinku/Downloads/Brotherhood.of.Blades.2014.BluRay.720p.x264.AC3-CMCT/Brotherhood.of.Blades.2014.BluRay.720p.x264.AC3-CMCT.简体.srt",
+		"/home/rinku/Downloads/Brotherhood.of.Blades.II.The.Infernal.Battlefield.2017.720p.BluRay.x264-WiKi/Brotherhood.of.Blades.II.The.Infernal.Battlefield.2017.720p.BluRay.x264-WiKi.简体.srt",
+		"/home/rinku/Videos/Brotherhood.of.Blades.II.The.Infernal.Battlefield.2017.720p.BluRay.x264-WiKi.简体 [SubtitleTools.com] (1).srt",
+		"/home/rinku/Downloads/Brotherhood.of.Blades.2014.720p.BluRay.x264.DTS-WiKi.chs.srt",
+		"/home/rinku/Downloads/Brotherhood.of.Blades.2014.1080p.BRRip.x264.Che.Eng.Audio-JYK/Subs/(eng)Brotherhood.of.Blades.2014.1080p.BRRip.x264.Che.Eng.Audio-JYK.srt",
+		"/home/rinku/Downloads/Brotherhood.of.Blades.2014.1080p.BRRip.x264.Che.Eng.Audio-JYK/Subs/Brotherhood.of.Blades.2014.1080p.BRRip.x264.Che.Eng.Audio-JYK.smi",
+		"/home/rinku/Workspace/useful_chinese/stanford-segmenter/test.simp.utf8",
+		"/home/rinku/Dropbox/Workspace/Doing/theoric_model/server.py",
+		"/home/rinku/Dropbox/Workspace/Doing/theoric_model/morpho/ports.py",
+		"/home/rinku/Workspace/useful_chinese/stanford-segmenter/SegDemo.java",
+		"/tmp/xa-hRLvCB/CRFClassifier.java"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"word",
+			"value1",
+			"key1",
+			"\n",
+			"print",
+			",",
+			"font",
+			"(0, 0)",
+			"的\"",
+			"\"的",
+			"的",
+			"\"的\"",
+			"print",
+			"print(",
+			"sample",
+			"glob",
+			"path",
+			"length_damped",
+			"wave",
+			"floor",
+			"args.rate",
+			"args.channels",
+			"args.time",
+			"args.rate",
+			"                (",
+			"sine_wa",
+			"eval_dna",
+			"self.",
+			"toolbox",
+			"self.toolbox",
+			"self.",
+			"toolbox",
+			"self.toolbox",
+			"self.",
+			"display",
+			"zeros",
+			"squa",
+			"pylab",
+			"的",
+			"lines",
+			": 11",
+			": 10",
+			": 5",
+			": 4",
+			": 3",
+			": 2",
+			"2",
+			"silent",
+			"”",
+			"\n",
+			"tags",
+			"parse_string",
+			"2f",
+			"x",
+			"1045",
+			",",
+			"ouput1",
+			"input1",
+			"false",
+			"sorte",
+			"notify",
+			"====",
+			"<<<",
+			">>>",
+			"y_labels",
+			"x_labels",
+			"inputs[0]",
+			"0",
+			"x",
+			"r",
+			"result_complete_n",
+			"  [Double]",
+			"val",
+			"Val",
+			"val",
+			"Val",
+			"val",
+			"ys",
+			"xs",
+			"y",
+			"values",
+			"vals_out[y]",
+			"x",
+			"y",
+			"rho",
+			">>>",
+			"rho",
+			"corr",
+			"ind",
+			"dependant",
+			"zip(*",
+			"zip(",
+			"csvfile",
+			"\\'",
+			"\\",
+			"/",
+			"headless",
+			"go ",
+			"go",
+			"go ",
+			"go [",
+			"g [",
+			"go",
+			"-c",
+			"self.filter_authorized_ports",
+			"def filter_authorized_ports",
+			"create_links",
+			"print(",
+			"print)",
+			"print(",
+			"quad",
+			"d3Link",
+			" color",
+			"color",
+			"self.move_nodes",
+			"write_messag",
+			"x",
+			"ymay",
+			"x",
+			"xmin",
+			"in",
+			"funcs",
+			"node",
+			"nodes",
+			"x",
+			"post",
+			"self.",
+			"alphaTarget"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			" ",
+			"3f",
+			"          ",
+			"dependent",
+			"'",
+			"",
+			"t_update",
+			"velocity_decay",
+			"__add_node_aux",
+			"\"\"\"",
+			"__add_timelapse",
+			"__add_timestamp",
+			"__args_to_str",
+			"__globale_times",
+			"data",
+			"self.hof",
+			"verbose"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "init_db.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5047,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5047,
+								5047
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1412.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "compare.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 6942,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6791,
+								6886
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1638.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/home/rinku/UMHC_stuff.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1611,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								778,
+								778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 117.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "users/rinku.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 495,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								495,
+								495
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/rinku/fiction_trial.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								5730,
+								5730
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1931.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "/home/rinku/to_add_rinku.txt",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 529,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								529,
+								529
+							]
+						],
+						"settings":
+						{
+							"auto_name": "名字 name",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 40.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "chinese.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Workspace/useful_chinese/chinese.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
